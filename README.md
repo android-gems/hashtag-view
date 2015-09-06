@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/greenfrvr/hashtag-view.svg?branch=master)](http://www.android-gems.com/lib/greenfrvr/hashtag-view)
+
 # HashtagView
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-HashtagView-green.svg?style=flat)](https://android-arsenal.com/details/1/2447)
